@@ -74,3 +74,5 @@ if (!!process.env.SKIP_ENV_VALIDATION == false) {
 }
 
 export { env };
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_bWVldC10aWNrLTYwLmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_oZ4rhxTv52Fjt3ICxEKlkpcI1AJwqToYuVAgY0jENy
